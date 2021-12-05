@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/treact/static/css/main.def877c0.chunk.css",
-    "main.js": "/treact/static/js/main.c15e9c42.chunk.js",
-    "main.js.map": "/treact/static/js/main.c15e9c42.chunk.js.map",
+    "main.js": "/treact/static/js/main.088dc6b1.chunk.js",
+    "main.js.map": "/treact/static/js/main.088dc6b1.chunk.js.map",
     "runtime-main.js": "/treact/static/js/runtime-main.fb20723b.js",
     "runtime-main.js.map": "/treact/static/js/runtime-main.fb20723b.js.map",
     "static/css/2.df954f26.chunk.css": "/treact/static/css/2.df954f26.chunk.css",
-    "static/js/2.0622b062.chunk.js": "/treact/static/js/2.0622b062.chunk.js",
-    "static/js/2.0622b062.chunk.js.map": "/treact/static/js/2.0622b062.chunk.js.map",
+    "static/js/2.30a7493e.chunk.js": "/treact/static/js/2.30a7493e.chunk.js",
+    "static/js/2.30a7493e.chunk.js.map": "/treact/static/js/2.30a7493e.chunk.js.map",
     "index.html": "/treact/index.html",
     "static/css/2.df954f26.chunk.css.map": "/treact/static/css/2.df954f26.chunk.css.map",
     "static/css/main.def877c0.chunk.css.map": "/treact/static/css/main.def877c0.chunk.css.map",
-    "static/js/2.0622b062.chunk.js.LICENSE.txt": "/treact/static/js/2.0622b062.chunk.js.LICENSE.txt",
+    "static/js/2.30a7493e.chunk.js.LICENSE.txt": "/treact/static/js/2.30a7493e.chunk.js.LICENSE.txt",
     "static/media/AboutUsPage.c9232ae2.jpeg": "/treact/static/media/AboutUsPage.c9232ae2.jpeg",
     "static/media/AgencyLandingPage.717f8ed6.jpeg": "/treact/static/media/AgencyLandingPage.717f8ed6.jpeg",
     "static/media/BlogIndexPage.0f03fbdc.jpeg": "/treact/static/media/BlogIndexPage.0f03fbdc.jpeg",
@@ -20,7 +20,6 @@
     "static/media/HostingCloudLandingPage.6b09b2aa.jpeg": "/treact/static/media/HostingCloudLandingPage.6b09b2aa.jpeg",
     "static/media/HotelTravelLandingPage.7cba2215.jpeg": "/treact/static/media/HotelTravelLandingPage.7cba2215.jpeg",
     "static/media/LoginPage.833169df.jpeg": "/treact/static/media/LoginPage.833169df.jpeg",
-    "static/media/MainLandingPageHero.30b38078.png": "/treact/static/media/MainLandingPageHero.30b38078.png",
     "static/media/PricingPage.c6e93374.jpeg": "/treact/static/media/PricingPage.c6e93374.jpeg",
     "static/media/PrivacyPolicyPage.87eaa1f8.jpeg": "/treact/static/media/PrivacyPolicyPage.87eaa1f8.jpeg",
     "static/media/RestaurantLandingPage.e0dec44b.jpeg": "/treact/static/media/RestaurantLandingPage.e0dec44b.jpeg",
@@ -55,7 +54,6 @@
     "static/media/facebook-icon.8f6512c4.svg": "/treact/static/media/facebook-icon.8f6512c4.svg",
     "static/media/fast-icon.dbb971a7.svg": "/treact/static/media/fast-icon.dbb971a7.svg",
     "static/media/github-icon.2012dbb2.svg": "/treact/static/media/github-icon.2012dbb2.svg",
-    "static/media/handle-icon.75eb6395.svg": "/treact/static/media/handle-icon.75eb6395.svg",
     "static/media/hero-screenshot-1.40a097b5.png": "/treact/static/media/hero-screenshot-1.40a097b5.png",
     "static/media/hero-screenshot-2.241aac1f.png": "/treact/static/media/hero-screenshot-2.241aac1f.png",
     "static/media/linkedin-icon.962df6ce.svg": "/treact/static/media/linkedin-icon.962df6ce.svg",
@@ -72,7 +70,6 @@
     "static/media/prototype-illustration.21bc4b3f.svg": "/treact/static/media/prototype-illustration.21bc4b3f.svg",
     "static/media/quotes-l.075e0fe3.svg": "/treact/static/media/quotes-l.075e0fe3.svg",
     "static/media/quotes-r.4ac4f654.svg": "/treact/static/media/quotes-r.4ac4f654.svg",
-    "static/media/radio.svg": "/treact/static/media/radio.597e1dfd.svg",
     "static/media/reliable-icon.1367510a.svg": "/treact/static/media/reliable-icon.1367510a.svg",
     "static/media/server-illustration-2.759ff537.svg": "/treact/static/media/server-illustration-2.759ff537.svg",
     "static/media/server-redundancy-illustration.c60061a0.svg": "/treact/static/media/server-redundancy-illustration.c60061a0.svg",
@@ -105,8 +102,8 @@
   "entrypoints": [
     "static/js/runtime-main.fb20723b.js",
     "static/css/2.df954f26.chunk.css",
-    "static/js/2.0622b062.chunk.js",
+    "static/js/2.30a7493e.chunk.js",
     "static/css/main.def877c0.chunk.css",
-    "static/js/main.c15e9c42.chunk.js"
+    "static/js/main.088dc6b1.chunk.js"
   ]
 }
